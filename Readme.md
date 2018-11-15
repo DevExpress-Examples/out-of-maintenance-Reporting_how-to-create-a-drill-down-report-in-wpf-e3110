@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[DrillDownReport.cs](./CS/PreviewClickSample/DrillDownReport.cs) (VB: [DrillDownReport.vb](./VB/PreviewClickSample/DrillDownReport.vb))**
+* [MainWindow.xaml](./CS/PreviewClickSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PreviewClickSample/MainWindow.xaml))
+<!-- default file list end -->
 # How to create a drill-down report in WPF
 
 
