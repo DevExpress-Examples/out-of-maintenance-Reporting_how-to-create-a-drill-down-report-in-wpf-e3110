@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [DrillDownReport.cs](./CS/PreviewClickSample/DrillDownReport.cs) (VB: [DrillDownReport.vb](./VB/PreviewClickSample/DrillDownReport.vb))
-* [MainWindow.xaml](./CS/PreviewClickSample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/PreviewClickSample/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/PreviewClickSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PreviewClickSample/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/PreviewClickSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PreviewClickSample/MainWindow.xaml.vb))
 * [MainWindowViewModel.cs](./CS/PreviewClickSample/MainWindowViewModel.cs) (VB: [MainWindowViewModel.vb](./VB/PreviewClickSample/MainWindowViewModel.vb))
 <!-- default file list end -->
